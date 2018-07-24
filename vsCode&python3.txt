@@ -1,0 +1,12 @@
+in terminal type below
+nano ~/.bash_profile
+alias python3=python
+ctrl+X
+python
+>>>import sys
+>>>print(sys.executable)
+then copy paste the path in user setting from preferences >settings as 
+“python.pythonPath”:”/Library/Frameworks/Python.framework/Versions/3.6/bin/python3”,
+"python.linting.pylintEnabled": false   //to get rid of lint warning
+
+rm -rf  /User/pigglet/.git  //to get rid of git warning
