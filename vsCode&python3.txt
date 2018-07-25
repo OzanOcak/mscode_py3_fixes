@@ -1,7 +1,7 @@
 in terminal type below
 nano ~/.bash_profile
 alias python3=python
-export PYTHONPATH="/Users/coreyschafer/Desktop/dev/python/My-Modules"
+export PYTHONPATH="/Users/ozanocak/Desktop/dev/python/My-Modules"
 
 this is for module folder if it is not in the same directory
 
